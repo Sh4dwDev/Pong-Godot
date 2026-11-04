@@ -4,6 +4,7 @@ A classic Pong game made in **Godot 4** with GDScript. Play against a CPU oppone
  
 <img width="960" height="200" alt="Pong gameplay" src="https://github.com/user-attachments/assets/2d809bb2-840f-49f3-831e-ca4f43e9e0e2" />
 <img width="347" height="192" alt="Pong screenshot" src="https://github.com/user-attachments/assets/0bef3c5e-0b46-42ba-adea-f3a00321fb01" />
+
 🎮 **Play it on itch.io:**
 [shadwdev.itch.io/pong](https://shadwdev.itch.io/pong)
  
@@ -26,6 +27,7 @@ A classic Pong game made in **Godot 4** with GDScript. Play against a CPU oppone
  
 - **Godot 4** (2D)
 - **GDScript**
+  
 ## How it works
  
 | Script | What it does |
@@ -46,6 +48,7 @@ I made this by following a tutorial, as my first finished game in Godot. Along t
 - **Signals:** using `body_entered` on score zones and `timeout` on a timer to react to events
 - **Simple AI:** making a CPU paddle follow the ball in a fair way
 - **UI:** showing the score with labels and a custom font
+  
 ## Run it yourself
  
 1. Install [Godot 4](https://godotengine.org/download)
@@ -55,12 +58,14 @@ I made this by following a tutorial, as my first finished game in Godot. Along t
 ```
 3. Open Godot, click **Import**, and select the `project.godot` file
 4. Press **F5** to play
+   
 ## Future ideas
  
 - Two-player mode on the same keyboard (W/S and arrow keys)
 - Start menu and a "first to 10 wins" end screen
 - Sound effects for hits and points
 - Difficulty settings for the CPU
+  
 ## Credits
  
 - Based on a Pong tutorial for Godot 4
