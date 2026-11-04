@@ -4,7 +4,8 @@ A classic Pong game made in **Godot 4** with GDScript. Play against a CPU oppone
  
 <img width="960" height="200" alt="Pong gameplay" src="https://github.com/user-attachments/assets/2d809bb2-840f-49f3-831e-ca4f43e9e0e2" />
 <img width="347" height="192" alt="Pong screenshot" src="https://github.com/user-attachments/assets/0bef3c5e-0b46-42ba-adea-f3a00321fb01" />
-🎮 **Play it on itch.io:** [shadwdev.itch.io/pong](https://shadwdev.itch.io/pong)
+🎮 **Play it on itch.io:**
+[shadwdev.itch.io/pong](https://shadwdev.itch.io/pong)
  
 ## Controls
  
